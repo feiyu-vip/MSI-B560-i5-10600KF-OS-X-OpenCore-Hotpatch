@@ -17,3 +17,9 @@ macOS Big Sur 11.01正式版 macOS Catalina 10.15& macOS Mojave 10.14 ACPI补丁
 长期维护更新QQ群：978205262 EFI文件拒绝伸手党，需要进群才能拿到文件，有什么问题可以QQ群问我。 image
 
  MSI-B560-i5-10600KF-OS-X-OpenCore-Hotpatch EFI文件自取群 978205262
+
+
+长期维护更新QQ群：978205262  EFI文件拒绝伸手党，需要进群才能拿到文件，有什么问题可以QQ群问我。
+![image](https://github.com/feiyu-vip/HUANANZHI-X79-OS-X-Clover-OpenCore-Hotpatch/blob/main/211606841668_.pic_hd.jpg?raw=true)
+
+需要有偿安装：淘宝搜索：小郑逛商城
